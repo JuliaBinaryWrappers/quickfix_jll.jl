@@ -1,0 +1,392 @@
+[[quickfix]]
+arch = "aarch64"
+git-tree-sha1 = "6ff52c67cf6cceaf1d5d3014494332bc06d55e7d"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[quickfix.download]]
+    sha256 = "426502d579d536cb9e2cb239588962c44dc4ad5807c63a01f034742b5e11c675"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[quickfix]]
+arch = "aarch64"
+git-tree-sha1 = "6ff52c67cf6cceaf1d5d3014494332bc06d55e7d"
+julia_version = "1.11.0"
+os = "macos"
+
+    [[quickfix.download]]
+    sha256 = "426502d579d536cb9e2cb239588962c44dc4ad5807c63a01f034742b5e11c675"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
+[[quickfix]]
+arch = "aarch64"
+git-tree-sha1 = "6ff52c67cf6cceaf1d5d3014494332bc06d55e7d"
+julia_version = "1.8.0"
+os = "macos"
+
+    [[quickfix.download]]
+    sha256 = "426502d579d536cb9e2cb239588962c44dc4ad5807c63a01f034742b5e11c675"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.aarch64-apple-darwin-julia_version+1.8.0.tar.gz"
+[[quickfix]]
+arch = "aarch64"
+git-tree-sha1 = "6ff52c67cf6cceaf1d5d3014494332bc06d55e7d"
+julia_version = "1.9.0"
+os = "macos"
+
+    [[quickfix.download]]
+    sha256 = "426502d579d536cb9e2cb239588962c44dc4ad5807c63a01f034742b5e11c675"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+[[quickfix]]
+arch = "aarch64"
+git-tree-sha1 = "a2326e560e3fb68e6875f26c0a4f0d0f6bf0d301"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "1df2cde1afeb3b7c1c2b265256443084af147b0c64aa761b8865eeb6ad7c820d"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.aarch64-linux-gnu-julia_version+1.10.0.tar.gz"
+[[quickfix]]
+arch = "aarch64"
+git-tree-sha1 = "a2326e560e3fb68e6875f26c0a4f0d0f6bf0d301"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "1df2cde1afeb3b7c1c2b265256443084af147b0c64aa761b8865eeb6ad7c820d"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.aarch64-linux-gnu-julia_version+1.11.0.tar.gz"
+[[quickfix]]
+arch = "aarch64"
+git-tree-sha1 = "a2326e560e3fb68e6875f26c0a4f0d0f6bf0d301"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "1df2cde1afeb3b7c1c2b265256443084af147b0c64aa761b8865eeb6ad7c820d"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.aarch64-linux-gnu-julia_version+1.8.0.tar.gz"
+[[quickfix]]
+arch = "aarch64"
+git-tree-sha1 = "a2326e560e3fb68e6875f26c0a4f0d0f6bf0d301"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "1df2cde1afeb3b7c1c2b265256443084af147b0c64aa761b8865eeb6ad7c820d"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.aarch64-linux-gnu-julia_version+1.9.0.tar.gz"
+[[quickfix]]
+arch = "aarch64"
+git-tree-sha1 = "79ab6519ef71cbe908aa94c4ae73d01bacb291ce"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "cbfe852c181c10ac53988d7bc31fb8565f3c4606634e937d1ac6411f156ac9ae"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.aarch64-linux-musl-julia_version+1.10.0.tar.gz"
+[[quickfix]]
+arch = "aarch64"
+git-tree-sha1 = "79ab6519ef71cbe908aa94c4ae73d01bacb291ce"
+julia_version = "1.11.0"
+libc = "musl"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "cbfe852c181c10ac53988d7bc31fb8565f3c4606634e937d1ac6411f156ac9ae"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.aarch64-linux-musl-julia_version+1.11.0.tar.gz"
+[[quickfix]]
+arch = "aarch64"
+git-tree-sha1 = "79ab6519ef71cbe908aa94c4ae73d01bacb291ce"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "cbfe852c181c10ac53988d7bc31fb8565f3c4606634e937d1ac6411f156ac9ae"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.aarch64-linux-musl-julia_version+1.8.0.tar.gz"
+[[quickfix]]
+arch = "aarch64"
+git-tree-sha1 = "79ab6519ef71cbe908aa94c4ae73d01bacb291ce"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "cbfe852c181c10ac53988d7bc31fb8565f3c4606634e937d1ac6411f156ac9ae"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.aarch64-linux-musl-julia_version+1.9.0.tar.gz"
+[[quickfix]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a9daa25eb552cf3e5de8c5e018362cdca479c308"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "bcc9403505c0306dac05e1103c73cc3475c7d3bc151a45180e2162dc3d23fa53"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.armv6l-linux-gnueabihf-julia_version+1.8.0.tar.gz"
+[[quickfix]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3956058dc7c314ee1d520a81b2a819e43ec3e120"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "9f460c7d2f98207368f37ed1f42b34010f4ea0e48c5ab3612f84ba20b6a64b65"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.armv6l-linux-musleabihf-julia_version+1.8.0.tar.gz"
+[[quickfix]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "545f566d34659d3d4a0b45beb27ff279ef922926"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "0c2ec250ac85c4a90cc1fe4664fd2cd05ccbe5e9323de6618a1d7177fe98f150"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.armv7l-linux-gnueabihf-julia_version+1.8.0.tar.gz"
+[[quickfix]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c085b6c611d445e39cceef8f69dffdb9e49eade0"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "f18de36ede148971a8fbbcf4ddeb43a3ae66e829997d826f66f08a5d983ebaff"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.armv7l-linux-musleabihf-julia_version+1.8.0.tar.gz"
+[[quickfix]]
+arch = "i686"
+git-tree-sha1 = "ad840a12508ccda8f3e2810cc045e99b919a31f3"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "f11e2dd166138c8d9532dd4f7f80db17d9b17d89c8202de877eba4b4c19503f6"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.i686-linux-gnu-julia_version+1.10.0.tar.gz"
+[[quickfix]]
+arch = "i686"
+git-tree-sha1 = "ad840a12508ccda8f3e2810cc045e99b919a31f3"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "f11e2dd166138c8d9532dd4f7f80db17d9b17d89c8202de877eba4b4c19503f6"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.i686-linux-gnu-julia_version+1.11.0.tar.gz"
+[[quickfix]]
+arch = "i686"
+git-tree-sha1 = "ad840a12508ccda8f3e2810cc045e99b919a31f3"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "f11e2dd166138c8d9532dd4f7f80db17d9b17d89c8202de877eba4b4c19503f6"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.i686-linux-gnu-julia_version+1.8.0.tar.gz"
+[[quickfix]]
+arch = "i686"
+git-tree-sha1 = "ad840a12508ccda8f3e2810cc045e99b919a31f3"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "f11e2dd166138c8d9532dd4f7f80db17d9b17d89c8202de877eba4b4c19503f6"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.i686-linux-gnu-julia_version+1.9.0.tar.gz"
+[[quickfix]]
+arch = "powerpc64le"
+git-tree-sha1 = "83bafd38dd8db983f7a6ac8304005a34dff8c1e9"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "0a6ce71052df2b279492815c8a72800cc531346482e9fc340410a9b78471e4fa"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.powerpc64le-linux-gnu-julia_version+1.10.0.tar.gz"
+[[quickfix]]
+arch = "powerpc64le"
+git-tree-sha1 = "83bafd38dd8db983f7a6ac8304005a34dff8c1e9"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "0a6ce71052df2b279492815c8a72800cc531346482e9fc340410a9b78471e4fa"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.powerpc64le-linux-gnu-julia_version+1.11.0.tar.gz"
+[[quickfix]]
+arch = "powerpc64le"
+git-tree-sha1 = "83bafd38dd8db983f7a6ac8304005a34dff8c1e9"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "0a6ce71052df2b279492815c8a72800cc531346482e9fc340410a9b78471e4fa"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.powerpc64le-linux-gnu-julia_version+1.8.0.tar.gz"
+[[quickfix]]
+arch = "powerpc64le"
+git-tree-sha1 = "83bafd38dd8db983f7a6ac8304005a34dff8c1e9"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "0a6ce71052df2b279492815c8a72800cc531346482e9fc340410a9b78471e4fa"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.powerpc64le-linux-gnu-julia_version+1.9.0.tar.gz"
+[[quickfix]]
+arch = "x86_64"
+git-tree-sha1 = "abe31a13874c16dfcf27e6fb2818258760634b69"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[quickfix.download]]
+    sha256 = "91d72e9a0b75ddaf6de1d41d6a5e4682a280bbd23d3dea401a0504f08637b5f0"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[quickfix]]
+arch = "x86_64"
+git-tree-sha1 = "abe31a13874c16dfcf27e6fb2818258760634b69"
+julia_version = "1.11.0"
+os = "macos"
+
+    [[quickfix.download]]
+    sha256 = "91d72e9a0b75ddaf6de1d41d6a5e4682a280bbd23d3dea401a0504f08637b5f0"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
+[[quickfix]]
+arch = "x86_64"
+git-tree-sha1 = "abe31a13874c16dfcf27e6fb2818258760634b69"
+julia_version = "1.8.0"
+os = "macos"
+
+    [[quickfix.download]]
+    sha256 = "91d72e9a0b75ddaf6de1d41d6a5e4682a280bbd23d3dea401a0504f08637b5f0"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.x86_64-apple-darwin-julia_version+1.8.0.tar.gz"
+[[quickfix]]
+arch = "x86_64"
+git-tree-sha1 = "abe31a13874c16dfcf27e6fb2818258760634b69"
+julia_version = "1.9.0"
+os = "macos"
+
+    [[quickfix.download]]
+    sha256 = "91d72e9a0b75ddaf6de1d41d6a5e4682a280bbd23d3dea401a0504f08637b5f0"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+[[quickfix]]
+arch = "x86_64"
+git-tree-sha1 = "0a481c0fecd2adce94f4c2f43dd1632ee94075db"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "d6c03f5de8711ef684dd4098fcc46d1108fb9b9c162bde196971e199de5fe03d"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.x86_64-linux-gnu-julia_version+1.10.0.tar.gz"
+[[quickfix]]
+arch = "x86_64"
+git-tree-sha1 = "0a481c0fecd2adce94f4c2f43dd1632ee94075db"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "d6c03f5de8711ef684dd4098fcc46d1108fb9b9c162bde196971e199de5fe03d"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.x86_64-linux-gnu-julia_version+1.11.0.tar.gz"
+[[quickfix]]
+arch = "x86_64"
+git-tree-sha1 = "0a481c0fecd2adce94f4c2f43dd1632ee94075db"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "d6c03f5de8711ef684dd4098fcc46d1108fb9b9c162bde196971e199de5fe03d"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.x86_64-linux-gnu-julia_version+1.8.0.tar.gz"
+[[quickfix]]
+arch = "x86_64"
+git-tree-sha1 = "0a481c0fecd2adce94f4c2f43dd1632ee94075db"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "d6c03f5de8711ef684dd4098fcc46d1108fb9b9c162bde196971e199de5fe03d"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.x86_64-linux-gnu-julia_version+1.9.0.tar.gz"
+[[quickfix]]
+arch = "x86_64"
+git-tree-sha1 = "9007f405d99ec8079caedc35358e155db546fc32"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "04b02deb6634d09f3702e6a575020e1ccd895a5bd6ec52b8630e0f3ff287b4a9"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.x86_64-linux-musl-julia_version+1.10.0.tar.gz"
+[[quickfix]]
+arch = "x86_64"
+git-tree-sha1 = "9007f405d99ec8079caedc35358e155db546fc32"
+julia_version = "1.11.0"
+libc = "musl"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "04b02deb6634d09f3702e6a575020e1ccd895a5bd6ec52b8630e0f3ff287b4a9"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.x86_64-linux-musl-julia_version+1.11.0.tar.gz"
+[[quickfix]]
+arch = "x86_64"
+git-tree-sha1 = "9007f405d99ec8079caedc35358e155db546fc32"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "04b02deb6634d09f3702e6a575020e1ccd895a5bd6ec52b8630e0f3ff287b4a9"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.x86_64-linux-musl-julia_version+1.8.0.tar.gz"
+[[quickfix]]
+arch = "x86_64"
+git-tree-sha1 = "9007f405d99ec8079caedc35358e155db546fc32"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[quickfix.download]]
+    sha256 = "04b02deb6634d09f3702e6a575020e1ccd895a5bd6ec52b8630e0f3ff287b4a9"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.x86_64-linux-musl-julia_version+1.9.0.tar.gz"
+[[quickfix]]
+arch = "x86_64"
+git-tree-sha1 = "b6e62d2e547036d974c8a9d8793dbbe5839da551"
+julia_version = "1.10.0"
+os = "freebsd"
+
+    [[quickfix.download]]
+    sha256 = "8d2bc45b83cac7b6702d081fd776eec52d02f063332bee15dea31a6156f8b3c7"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+[[quickfix]]
+arch = "x86_64"
+git-tree-sha1 = "b6e62d2e547036d974c8a9d8793dbbe5839da551"
+julia_version = "1.11.0"
+os = "freebsd"
+
+    [[quickfix.download]]
+    sha256 = "8d2bc45b83cac7b6702d081fd776eec52d02f063332bee15dea31a6156f8b3c7"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
+[[quickfix]]
+arch = "x86_64"
+git-tree-sha1 = "b6e62d2e547036d974c8a9d8793dbbe5839da551"
+julia_version = "1.8.0"
+os = "freebsd"
+
+    [[quickfix.download]]
+    sha256 = "8d2bc45b83cac7b6702d081fd776eec52d02f063332bee15dea31a6156f8b3c7"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.x86_64-unknown-freebsd-julia_version+1.8.0.tar.gz"
+[[quickfix]]
+arch = "x86_64"
+git-tree-sha1 = "b6e62d2e547036d974c8a9d8793dbbe5839da551"
+julia_version = "1.9.0"
+os = "freebsd"
+
+    [[quickfix.download]]
+    sha256 = "8d2bc45b83cac7b6702d081fd776eec52d02f063332bee15dea31a6156f8b3c7"
+    url = "https://github.com/JuliaBinaryWrappers/quickfix_jll.jl/releases/download/quickfix-v1.16.0+0/quickfix.v1.16.0.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
